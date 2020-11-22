@@ -1,0 +1,16 @@
+    #coins{
+        display: table-cell;
+        width: 100%;
+        margin: 0 auto;
+        height: auto;
+        text-align: center;
+    }
+    .media{
+        width: 25%;
+        border: 1px solid lightgray;
+        margin: 10px 20px;
+        display: inline-block !important;
+    }
+    .media img{
+        margin:10px 0px;
+    }
